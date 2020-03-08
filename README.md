@@ -1,7 +1,9 @@
 # DataStorageTechniques
 The Android platform provides developers with multiple ways to store data, with each method having it’s advantages and disadvantages. In this project, I have implemented five major data storage techniques which are available to Android developers.
 
-![Alt text](https://user-images.githubusercontent.com/46056492/76170348-fa4a7000-61a2-11ea-9310-0c802def13eb.png?raw=true "ScreenShot_1")
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/46056492/76170348-fa4a7000-61a2-11ea-9310-0c802def13eb.png" width="400px"</img> 
+</div>
 
 https://user-images.githubusercontent.com/46056492/76170349-fcacca00-61a2-11ea-9ccb-ad6215c1a50e.png
 https://user-images.githubusercontent.com/46056492/76170351-ffa7ba80-61a2-11ea-9407-b829aeaab6e5.png

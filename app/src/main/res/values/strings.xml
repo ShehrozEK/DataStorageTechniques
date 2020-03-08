@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DataStorageTechniques</string>
+    <string name="start">START</string>
+    <string name="app_version">VERSION 1.0</string>
+    <string name="topics">This Application will cover \n•   Shared Preferences \n•  Cache\n•    Internal Storage\n•	External Storage\n•	SQLite
+    </string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment1_title">Shared Preferences</string>
+    <string name="fragment2_title">Cache Storage</string>
+    <string name="fragment3_title">Internal Storage</string>
+    <string name="fragment4_title">External Storage</string>
+    <string name="fragment5_title">SQLite Database</string>
+    <string name="filename">Enter FileName</string>
+    <string name="pref_key">Enter SharedPreferences Key</string>
+    <string name="pref_value">Enter SharedPreferences Value</string>
+</resources>
